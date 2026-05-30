@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cryovault",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1ba05cf7-957e-4e61-8ec9-6b3f8e5165ea",
+			"database_name": "cryovault"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
